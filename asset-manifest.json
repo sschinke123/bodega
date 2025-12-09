@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "./static/js/main.d6739fb1.js",
+    "main.js": "./static/js/main.2270d392.js",
     "static/media/winery.jpg": "./static/media/winery.7d108c26ac39d9282529.jpg",
     "static/media/start.jpg": "./static/media/start.d6586cc9f295011e8583.jpg",
     "static/media/team-carlos.jpg": "./static/media/team-carlos.7769edc04cc043954ff0.jpg",
@@ -11,9 +11,9 @@
     "static/media/wine2.jpg": "./static/media/wine2.1e01a47b62892561dea0.jpg",
     "static/media/wine3.jpg": "./static/media/wine3.bb5a01287a9a3a8c351b.jpg",
     "index.html": "./index.html",
-    "main.d6739fb1.js.map": "./static/js/main.d6739fb1.js.map"
+    "main.2270d392.js.map": "./static/js/main.2270d392.js.map"
   },
   "entrypoints": [
-    "static/js/main.d6739fb1.js"
+    "static/js/main.2270d392.js"
   ]
 }
