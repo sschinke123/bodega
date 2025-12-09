@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import { ThemeProvider, CssBaseline } from '@mui/material';
 import { useState } from 'react';
 import { getTheme } from './theme';
@@ -14,7 +14,7 @@ function App() {
     return (
         <ThemeProvider theme={getTheme(mode)}>
             <CssBaseline />
-            <BrowserRouter>
+            <HashRouter>
                 <Routes>
                     <Route
                         path="/"
@@ -26,7 +26,7 @@ function App() {
                         <Route path="contact" element={<ContactPage />} />
                     </Route>
                 </Routes>
-            </BrowserRouter>
+            </HashRouter>
         </ThemeProvider>
     );
 }
