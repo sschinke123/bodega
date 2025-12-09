@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "Home",
+    "history": "History",
+    "pricing": "Pricing",
+    "contact": "Contact"
+  },
+
+  "home": {
+    "heroTitle": "Wine tradition meets innovation – discover our finest wines",
+    "featuredTitle": "Bodega Reserve 2023",
+    "featuredText": "Intense aroma of dark berries, velvety texture and a long elegant finish. Perfect with meat dishes or aged cheese.",
+    "buyButton": "Buy Now",
+    "offersTitle": "Current Offers",
+    "offersText": "Discover our seasonal offers: 10% discount on selected white and red wines this month.",
+    "viewOffersButton": "View Offers"
+  },
+
+  "history": {
+    "title": "Our History",
+    "text1": "Since 1920 our winery has combined tradition with modern craftsmanship.",
+    "text2": "Our wines are produced in small batches to ensure the highest quality.",
+    "teamTitle": "Our Team",
+    "team1": "Master winemaker – Red wine specialist",
+    "team2": "Oenologist – White wine expert",
+    "team3": "Sales & Marketing – Wine enthusiast"
+  },
+
+  "pricing": {
+    "title": "Our Wines & Prices",
+    "priceLabel": "Price",
+    "wine1": {
+      "desc": "Intense aroma, dry."
+    },
+    "wine2": {
+      "desc": "Fruity, light acidity."
+    },
+    "wine3": {
+      "desc": "Smooth, velvety, full-bodied."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "formTitle": "Contact Form",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send message"
+  },
+  "weather": {
+    "title": "Current Weather at the Winery",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "conditionLabel": "Condition",
+    "loading": "Loading weather data...",
+    "error": "Error loading weather data",
+    "codes": {
+      "0": "Clear sky",
+      "1": "Mainly clear",
+      "2": "Partly cloudy",
+      "3": "Overcast",
+      "45": "Fog",
+      "48": "Depositing rime fog",
+      "51": "Light drizzle",
+      "53": "Moderate drizzle",
+      "55": "Dense drizzle",
+      "61": "Slight rain",
+      "63": "Moderate rain",
+      "65": "Heavy rain",
+      "71": "Light snow",
+      "73": "Moderate snow",
+      "75": "Heavy snow",
+      "95": "Thunderstorm"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  },
+  "cookie": {
+    "message": "This website uses cookies to optimize user experience.",
+    "accept": "Accept"
+  }
+}

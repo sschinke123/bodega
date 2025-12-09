@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "history": "Historia",
+    "pricing": "Precios",
+    "contact": "Contacto"
+  },
+
+  "home": {
+    "heroTitle": "La tradición del vino se une a la innovación – Descubra nuestros mejores vinos",
+    "featuredTitle": "Bodega Reserva 2023",
+    "featuredText": "Aroma intenso de frutos rojos oscuros, textura aterciopelada y un final largo y elegante. Perfecto con carnes o quesos curados.",
+    "buyButton": "Comprar ahora",
+    "offersTitle": "Ofertas actuales",
+    "offersText": "Descubra nuestras ofertas de temporada: 10% de descuento en vinos seleccionados este mes.",
+    "viewOffersButton": "Ver ofertas"
+  },
+
+  "history": {
+    "title": "Nuestra Historia",
+    "text1": "Desde 1920 nuestra bodega combina la tradición con la vinificación moderna.",
+    "text2": "Nuestros vinos se elaboran en pequeñas producciones para garantizar la máxima calidad.",
+    "teamTitle": "Nuestro Equipo",
+    "team1": "Maestro bodeguero – Especialista en vinos tintos",
+    "team2": "Enóloga – Experta en vinos blancos",
+    "team3": "Ventas y marketing – Amante del vino"
+  },
+
+  "pricing": {
+    "title": "Nuestros vinos y precios",
+    "priceLabel": "Precio",
+    "wine1": {
+      "desc": "Aroma intenso, seco."
+    },
+    "wine2": {
+      "desc": "Afrutado, acidez ligera."
+    },
+    "wine3": {
+      "desc": "Suave, aterciopelado, con mucho cuerpo."
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "formTitle": "Formulario de contacto",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "message": "Mensaje",
+    "send": "Enviar mensaje"
+  },
+  "weather": {
+    "title": "Clima actual en la bodega",
+    "temperature": "Temperatura",
+    "humidity": "Humedad",
+    "wind": "Viento",
+    "conditionLabel": "Condición",
+    "loading": "Cargando datos del clima...",
+    "error": "Error al cargar los datos del clima",
+    "codes": {
+      "0": "Cielo despejado",
+      "1": "Mayormente despejado",
+      "2": "Parcialmente nublado",
+      "3": "Nublado",
+      "45": "Niebla",
+      "48": "Niebla con escarcha",
+      "51": "Llovizna ligera",
+      "53": "Llovizna moderada",
+      "55": "Llovizna intensa",
+      "61": "Lluvia ligera",
+      "63": "Lluvia moderada",
+      "65": "Lluvia intensa",
+      "71": "Nieve ligera",
+      "73": "Nieve moderada",
+      "75": "Nieve intensa",
+      "95": "Tormenta"
+    }
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados"
+  },
+  "cookie": {
+    "message": "Este sitio web utiliza cookies para optimizar la experiencia del usuario.",
+    "accept": "Aceptar"
+  }
+}

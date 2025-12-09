@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "history": "Geschichte",
+    "pricing": "Preise",
+    "contact": "Kontakt"
+  },
+
+  "home": {
+    "heroTitle": "Weintradition trifft Innovation – Entdecken Sie unsere erlesenen Weine",
+    "featuredTitle": "Bodega Reserve 2023",
+    "featuredText": "Intensives Aroma von dunklen Beeren, samtige Textur und ein langer, eleganter Abgang. Perfekt zu Fleischgerichten oder gereiftem Käse.",
+    "buyButton": "Jetzt Kaufen",
+    "offersTitle": "Aktuelle Angebote",
+    "offersText": "Entdecken Sie unsere saisonalen Angebote: 10% Rabatt auf ausgewählte Weißweine und Rotweine diesen Monat.",
+    "viewOffersButton": "Angebote ansehen"
+  },
+
+  "history": {
+    "title": "Unsere Geschichte",
+    "text1": "Seit 1920 verbindet unser Weingut Tradition mit moderner Winzerkunst.",
+    "text2": "Unsere Weine entstehen in kleinen Chargen für höchste Qualität.",
+    "teamTitle": "Unser Team",
+    "team1": "Winzermeister – Spezialist für Rotweine",
+    "team2": "Önologin – Expertin für Weißweine",
+    "team3": "Vertrieb & Marketing – Weinliebhaber"
+  },
+
+  "pricing": {
+    "title": "Unsere Weine & Preise",
+    "priceLabel": "Preis",
+    "wine1": {
+      "desc": "Intensives Aroma, trocken."
+    },
+    "wine2": {
+      "desc": "Fruchtig, leichte Säure."
+    },
+    "wine3": {
+      "desc": "Sanft, samtig, voller Körper."
+    }
+  },
+
+  "contact": {
+    "title": "Kontakt",
+    "formTitle": "Kontaktformular",
+    "name": "Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "send": "Nachricht senden"
+  },
+  "weather": {
+    "title": "Aktuelles Wetter im Weingut",
+    "temperature": "Temperatur",
+    "humidity": "Luftfeuchtigkeit",
+    "wind": "Wind",
+    "conditionLabel": "Zustand",
+    "loading": "Lade Wetterdaten...",
+    "error": "Fehler beim Laden der Wetterdaten",
+    "codes": {
+      "0": "Klarer Himmel",
+      "1": "Überwiegend klar",
+      "2": "Teilweise bewölkt",
+      "3": "Bewölkt",
+      "45": "Nebel",
+      "48": "Reifnebel",
+      "51": "Leichter Nieselregen",
+      "53": "Mäßiger Nieselregen",
+      "55": "Starker Nieselregen",
+      "61": "Leichter Regen",
+      "63": "Mäßiger Regen",
+      "65": "Starker Regen",
+      "71": "Leichter Schneefall",
+      "73": "Mäßiger Schneefall",
+      "75": "Starker Schneefall",
+      "95": "Gewitter"
+    }
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten"
+  },
+  "cookie": {
+    "message": "Diese Website verwendet Cookies zur Optimierung der Benutzererfahrung.",
+    "accept": "Akzeptieren"
+  }
+}
