@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/bodega/static/js/main.ffcd3188.js",
+    "static/media/winery.jpg": "/bodega/static/media/winery.7d108c26ac39d9282529.jpg",
+    "static/media/start.jpg": "/bodega/static/media/start.d6586cc9f295011e8583.jpg",
+    "static/media/team-carlos.jpg": "/bodega/static/media/team-carlos.7769edc04cc043954ff0.jpg",
+    "static/media/team-elena.jpg": "/bodega/static/media/team-elena.a237f813971a1da611e8.jpg",
+    "static/media/team-miguel.jpg": "/bodega/static/media/team-miguel.56fc549f69e2e32d6793.jpg",
+    "static/media/winerydark.jpg": "/bodega/static/media/winerydark.0019207f56594805cff9.jpg",
+    "static/media/wine1.jpg": "/bodega/static/media/wine1.b0ddc34fa2deee91d1ab.jpg",
+    "static/media/wine2.jpg": "/bodega/static/media/wine2.1e01a47b62892561dea0.jpg",
+    "static/media/wine3.jpg": "/bodega/static/media/wine3.bb5a01287a9a3a8c351b.jpg",
+    "index.html": "/bodega/index.html",
+    "main.ffcd3188.js.map": "/bodega/static/js/main.ffcd3188.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ffcd3188.js"
+  ]
+}
