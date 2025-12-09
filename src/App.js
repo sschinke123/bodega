@@ -14,7 +14,7 @@ function App() {
     return (
         <ThemeProvider theme={getTheme(mode)}>
             <CssBaseline />
-            <HashRouter>
+            <HashRouter basename="/bodega">
                 <Routes>
                     <Route
                         path="/"
